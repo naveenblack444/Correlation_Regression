@@ -20,8 +20,7 @@ If y represents the dependent variable and x the independent variable, this rela
 ![image](https://user-images.githubusercontent.com/104613195/168225866-ac8f6610-bdc3-4ac2-a24e-2b24ba08e189.png)
 
 # Program :
-* Name : Naveen R
-* Reg no : 212224110040
+
 ```
 import numpy as np
 import math
@@ -57,6 +56,12 @@ plt.ylabel('y-data')
 plt.legend(['Regression Line','Data points'])
 plt.show()
 ```
+
+
+* Name : Naveen R
+* Reg no : 212224110040
+
+
 # Result
 
 <img width="736" height="530" alt="image" src="https://github.com/user-attachments/assets/6c2a5b4f-2c41-4d97-b700-967eeae2b37b" />
